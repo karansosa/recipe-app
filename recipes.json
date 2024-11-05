@@ -1,0 +1,29 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "cuisine": "Italian",
+        "image": "https://via.placeholder.com/150",
+        "description": "Classic Italian pasta dish with creamy sauce and pancetta.",
+        "ingredients": ["spaghetti", "eggs", "pancetta", "parmesan", "black pepper"]
+      },
+      {
+        "id": 2,
+        "title": "Tacos al Pastor",
+        "cuisine": "Mexican",
+        "image": "https://via.placeholder.com/150",
+        "description": "Traditional Mexican street tacos with marinated pork and pineapple.",
+        "ingredients": ["tortilla", "pork", "pineapple", "cilantro", "onion"]
+      },
+      {
+        "id": 3,
+        "title": "Chicken Biryani",
+        "cuisine": "Indian",
+        "image": "https://via.placeholder.com/150",
+        "description": "Aromatic rice dish with spiced chicken and saffron.",
+        "ingredients": ["rice", "chicken", "saffron", "yogurt", "spices"]
+      }
+    ]
+  }
+  
