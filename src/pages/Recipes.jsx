@@ -210,7 +210,7 @@ const recipeData = [
 ];
 
 
-function Cuisines() {
+function Recipes() {
   const { cuisineType } = useParams();
   const [searchQuery, setSearchQuery] = useState("");
   const [filteredRecipes, setFilteredRecipes] = useState([]);
@@ -269,4 +269,4 @@ function Cuisines() {
   );
 }
 
-export default Cuisines;
+export default Recipes;
