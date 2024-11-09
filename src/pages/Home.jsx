@@ -11,7 +11,6 @@ function Home() {
         {cuisines.map((cuisine, index) => (
           <div key={index} className="col-md-4 mb-3">
             <Link to={`/cuisines/${cuisine.toLowerCase()}`}>
-            {console.log(cuisines)}
               <div className="card">
                 <div className="card-body">
                   <h5 className="card-title">{cuisine}</h5>
