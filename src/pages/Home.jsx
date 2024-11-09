@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const cuisines = ["italian", "Mexican", "Indian", "Chinese", "Thai"];
+const cuisines = ["Italian", "Mexican", "Indian", "Chinese", "Thai"];
 
 function Home() {
   return (
